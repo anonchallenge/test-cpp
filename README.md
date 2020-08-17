@@ -31,3 +31,5 @@ visualizing this:
 
 You can download a community or trial edition of Visual Studio from [https://visualstudio.microsoft.com/downloads/] 
 
+**SUBMIT COMPLETED CODE BY EMAIL TO Devgroupssnc@ifdsgroup.com AS AN ATTACHED ZIP WITHOUT BINARIES.**
+**PLEASE NOTE YOUR FULL NAME IN THE BODY OF THE EMAIL.**
